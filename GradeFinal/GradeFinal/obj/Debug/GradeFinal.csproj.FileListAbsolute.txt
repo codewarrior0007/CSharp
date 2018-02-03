@@ -1,0 +1,14 @@
+C:\Users\AK\source\repos\GradeFinal\GradeFinal\bin\Debug\GradeFinal.exe.config
+C:\Users\AK\source\repos\GradeFinal\GradeFinal\bin\Debug\GradeFinal.exe
+C:\Users\AK\source\repos\GradeFinal\GradeFinal\bin\Debug\GradeFinal.pdb
+C:\Users\AK\source\repos\GradeFinal\GradeFinal\obj\Debug\GradeFinal.csprojResolveAssemblyReference.cache
+C:\Users\AK\source\repos\GradeFinal\GradeFinal\obj\Debug\GradeFinal.csproj.CoreCompileInputs.cache
+C:\Users\AK\source\repos\GradeFinal\GradeFinal\obj\Debug\GradeFinal.exe
+C:\Users\AK\source\repos\GradeFinal\GradeFinal\obj\Debug\GradeFinal.pdb
+C:\Users\AK\source\repos\GradeFinal - Copy\GradeFinal\bin\Debug\GradeFinal.exe.config
+C:\Users\AK\source\repos\GradeFinal - Copy\GradeFinal\bin\Debug\GradeFinal.exe
+C:\Users\AK\source\repos\GradeFinal - Copy\GradeFinal\bin\Debug\GradeFinal.pdb
+C:\Users\AK\source\repos\GradeFinal - Copy\GradeFinal\obj\Debug\GradeFinal.csprojResolveAssemblyReference.cache
+C:\Users\AK\source\repos\GradeFinal - Copy\GradeFinal\obj\Debug\GradeFinal.csproj.CoreCompileInputs.cache
+C:\Users\AK\source\repos\GradeFinal - Copy\GradeFinal\obj\Debug\GradeFinal.exe
+C:\Users\AK\source\repos\GradeFinal - Copy\GradeFinal\obj\Debug\GradeFinal.pdb
