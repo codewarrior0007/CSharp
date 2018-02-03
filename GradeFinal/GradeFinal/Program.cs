@@ -13,7 +13,7 @@ namespace GradeFinal
         {
 
             GradeBook book = new GradeBook();
-            book.Name = "Aqeel's Grade Book";
+            book.Name = "JohnDoe's Grade Book";
             book.AddGrade(91);
             book.AddGrade(89.5f);
             book.AddGrade(75);
